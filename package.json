@@ -1,0 +1,20 @@
+{
+  "name": "inmobiliaria_alphacode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marferpu/Inmobiliaria_AlphaCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marferpu/Inmobiliaria_AlphaCode/issues"
+  },
+  "homepage": "https://github.com/marferpu/Inmobiliaria_AlphaCode#readme"
+}
