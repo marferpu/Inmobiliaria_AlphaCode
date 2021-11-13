@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/marferpu/Inmobiliaria_AlphaCode/issues"
   },
-  "homepage": "https://github.com/marferpu/Inmobiliaria_AlphaCode#readme"
+  "homepage": "https://github.com/marferpu/Inmobiliaria_AlphaCode#readme",
+  "dependencies": {
+    "mongodb": "^4.1.4"
+  }
 }
