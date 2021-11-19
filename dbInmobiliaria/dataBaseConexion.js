@@ -1,8 +1,8 @@
 const mongoDb = require('mongodb');
 const MongoClient = mongoDb.MongoClient;
 
-const dbConn = 'mongodb://alphacode:alphacode@clusterinmobiliaria-shard-00-00.uglzq.mongodb.net:27017,clusterinmobiliaria-shard-00-01.uglzq.mongodb.net:27017,clusterinmobiliaria-shard-00-02.uglzq.mongodb.net:27017/test?replicaSet=atlas-91jo71-shard-0&ssl=true&authSource=admin';
-const dbName = "InmobiliariaHC_DB";
+const dbConn = 'mongodb://alphacode:alphacode@clusterina mobiliaria-shard-00-00.uglzq.mongodb.net:27017,clusterinmobiliaria-shard-00-01.uglzq.mongodb.net:27017,clusterinmobiliaria-shard-00-02.uglzq.mongodb.net:27017/test?replicaSet=atlas-91jo71-shard-0&ssl=true&authSource=admin';
+const dbName = "InmobiliariaHC_DB";  
 const collectionName = "inmobiliaria";
 
 function initialize(SuccessCallBack, failureCallBack){
