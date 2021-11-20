@@ -25,7 +25,7 @@ export class CiudadModel extends Entity {
     id: true,
     generated: true,
   })
-  IdPais?: number;
+  IdCiudad?: number;
 
   // Define well-known properties here
 
